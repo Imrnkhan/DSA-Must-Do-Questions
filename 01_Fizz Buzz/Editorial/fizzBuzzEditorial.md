@@ -16,7 +16,7 @@ Check multiples of 3, 5 and 15.
 
 - All natural numbers divisible by 3 and not by 5 are called as "Fizz" while those divisible by 5 and not by 3 are called as "Buzz". If any number is divisible by both it's called as "FizzBuzz". Rest all natural numbers remain in their original form.
 
-- Hence iterating over all natural numbers from 1 to N and, checking whether the ith number ( 1 <= i <= N ) is divisible by 3 or, 5 or, both will fetch the result accordingly.
+- Hence iterating over all natural numbers from 1 to N and, checking whether the ith number ( 1 <= i <= N ) is divisible by 3 or, 5 or, both will fetch the result accordingly best solution.
 
 - Pseudo code:
 
